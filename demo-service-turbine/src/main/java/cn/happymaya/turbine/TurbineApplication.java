@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.turbine.EnableTurbine;
 
 /**
  * The application for the hystrix turbine server.
- * @author fangang
+ * @author superhsc
  */
 @SpringBootApplication
 @EnableDiscoveryClient

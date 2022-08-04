@@ -3,12 +3,11 @@ package cn.happymaya.config;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.ImportResource;
 
 /**
  * The application for the config server.
- * @author fangang
+ * @author superhsc
  */
 @SpringBootApplication
 @EnableConfigServer
